@@ -1,2 +1,2 @@
 # soulflame
-A fast paced pixel platformer with tight controls.
+A fast paced pixel platformer with tight controls made with Unity.
